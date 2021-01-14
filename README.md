@@ -5,9 +5,9 @@ Exemplo de aplicação dotnet com MongoDB.
  # Estrutura guia para se usar no postman
 ```
 {
-	"dataNascimento": "1990-03-01",
+	"dataNascimento": "1948-03-29",
 	"sexo": "M",
-	"latitude": -23.5630994,
+	"latitude": -23.5632457,
 	"longitude": -46.6565712
 }
 ```
